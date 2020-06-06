@@ -1,0 +1,1 @@
+<strong>Copyright &copy; 2020 <a target='_BLANK' href="http://localhost/yuhu/"> BABEO</a>.</strong> All rights reserved.
